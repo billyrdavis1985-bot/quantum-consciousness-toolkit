@@ -6,7 +6,7 @@ A suite of 6 interactive tools testing consciousness boundaries through empirica
 
 > *"Not proving beliefs—revealing system blind spots."*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](billyrdavis1985-bot)
 
 ---
 
